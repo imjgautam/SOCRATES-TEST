@@ -19,19 +19,13 @@ There is three form.
 <img src="https://github.com/imjgautam/SOCRATES-TEST/blob/master/gautam%20pt.png" align="middle"
      alt="Recognitionv" width="800" height="500">
      
-     
-     
 # And here is the print for their results with required details.
 
-<img src="https://github.com/imjgautam/SOCRATES-TEST/blob/master/ss4.png" align="right"
+<img src="https://github.com/imjgautam/SOCRATES-TEST/blob/master/ss4.png" align="middle"
      alt="Recognitionv" width="800" height="500">
-     
-     
-     
      
 # This software is running on 
 [Kaveri IRCA Rehabilitation Center] (http://www.sanghmitratrust.org/)
-
 
 # You can find a lot information about SOCRATEs TEST
 [SOCRATE TEST] (https://www.socrates.org.uk/assessment)
