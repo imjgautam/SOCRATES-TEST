@@ -8,16 +8,23 @@ There is three form.
 <img src="https://github.com/imjgautam/SOCRATES-TEST/blob/master/ss1.png" align="right"
      alt="Recognitionv" width="800" height="500">
      
+     
+     
+     
 
 # Second - Ambivalence
 
 <img src="https://github.com/imjgautam/SOCRATES-TEST/blob/master/ss2.png" align="right"
      alt="Recognitionv" width="800" height="500">
+     
+     
 
 # Third - Taking Steps
 
 <img src="https://github.com/imjgautam/SOCRATES-TEST/blob/master/ss3.png" align="right"
      alt="Recognitionv" width="800" height="500">
+     
+     
      
 
 # Now there is result calculation on the basis of options marked by patients.
@@ -25,11 +32,22 @@ There is three form.
 <img src="https://github.com/imjgautam/SOCRATES-TEST/blob/master/gautam%20pt.png" align="right"
      alt="Recognitionv" width="800" height="500">
      
+     
+     
 # And here is the print for their results with required details.
 
 <img src="https://github.com/imjgautam/SOCRATES-TEST/blob/master/ss4.png" align="right"
      alt="Recognitionv" width="800" height="500">
      
      
+     
+     
 # This software is running on 
 [Kaveri IRCA Rehabilitation Center] (http://www.sanghmitratrust.org/)
+
+
+# You can find a lot information about SOCRATEs TEST
+[SOCRATE TEST] (https://www.socrates.org.uk/assessment)
+
+
+# THANK YOU
